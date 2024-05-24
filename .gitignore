@@ -1,0 +1,10 @@
+run.sh
+.idea
+**/__pycache__
+data
+rollouts
+wandb
+checkpoints
+data_interactions
+pretrained
+pretrained_citylearn
